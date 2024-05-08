@@ -24,8 +24,8 @@ Update State and Action and repeat the step 3 untill the episodes ends.
 
 ## SARSA LEARNING FUNCTION
 ```Python
-DEVELOPED BY: EASWAR J
-REGISTER NUMBER: 212221230024
+#DEVELOPED BY: EASWAR J
+#REGISTER NUMBER: 212221230024
 def sarsa(env,
           gamma=1.0,
           init_alpha=0.5,
